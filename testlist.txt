@@ -1,0 +1,2 @@
+# testlist, see real runlist for info
+20140116/20140116-1.root,8765401239,,50,foam cooling tests, in air dry aluminium to aluminium contact

@@ -11,60 +11,60 @@
 # The first and last sensors are not used in the analysis
 #
 #
-20140116/20140116-1.root,8765401239,,50,foam cooling tests, in air dry aluminium to aluminium contact
-20140117/20140117-1.root,8765401239,,50,Aluminium to aluminium, interface with thermal grease
-20140120/20140120-1.root,8765401239,,50,CFRP sheet with thermal grease 1,fail
-20140120/20140120-2.root,8765401239,,50,CFRP sheet with thermal grease 2,fail
-20140120/20140120-3.root,8765401239,,50,CFRP sheet with thermal grease 3,fail
-20140120/20140120-4.root,8765401239,,50,CFRP sheet with thermal grease 4,fail
-20140120/20140120-5.root,8765401239,,50,CFRP sheet with thermal grease 5,fail
-20140121/20140121-1.root,8765401239,,50,Al-Al contact with thermal grease 1,fail
-20140121/20140121-2.root,8765401239,,50,Al-Al contact with thermal grease 2,fail
-20140121/20140121-3.root,8765401239,,50,Foam sample 2b,
-20140121/20140121-4.root,8765401239,,50,Foam sample 0a,
-20140121/20140121-5.root,8765401239,,50,Foam sample 3b,
-20140516/20140516-1.root,8765401239,,50,Sample 5b,fail
-20140516/20140516-2.root,8765401239,,50,Sample 5b,
-20140730/20140730-1.root,8765401239,,50,Al-Al contact with thermal grease,
-20140731/20140731-1.root,8765401239,,50,with thernmal grease,
-20140731/20140731-1.root,8765401239,,50,Single Aluminium plate measurement,
-20140801/20140801-2.root,8765401239,,50,Bare Aluminium with thermal grease,
-20140822/20140822-2.root,8765401239,,50,Aluminium sheet with thermal grease,
-20140827/20140827-1.root,8765401239,,50,Aluminium sheet with thermal grease,
-20140828/20140828-1.root,8765401239,,50,Aluminium sheet with thermal grease,ok no gradient
-20140901/20140901-1.root,8765401239,,50,Aluminium sheet with thermal grease,
-20140903/20140903-1.root,8765401239,,50,Aluminium sheet with thermal grease,
-20141007/20141007-1.root,8765401239,,50,T725 sample, prepared with 10 psi pressure ok no gradient
-20141007/20141007-2.root,8765401239,,50,T557 sample, prepared with 10 psi pressure fail
-20141008/20141008-1.root,8765401239,,50,T557 sample, prepared with 10 psi pressure
-20141008/20141008-2.root,8765401239,,50,T557 sample, prepared with 10 psi pressure
-20141008/20141008-3.root,8765401239,,50,T777 sample, prepared with 10 psi pressure
-20141009/20141009-1.root,8765401239,,50,MPC315 sample, prepared with 10 psi pressure fail
-20141009/20141009-2.root,8765401239,,50,MPC315 sample, prepared with 10 psi pressure fail
-20141021/20141021-2.root,8765401239,,50,CFoam sample 5,
-20141021/20141021-2.root,8765401239,,50,CFoam sample 5,
-20141021/20141021-3.root,8765401239,,50,Thermal Grease,
-20141022/20141022-1.root,8765401239,,50,CFoam sample 1,
-20141022/20141022-2.root,8765401239,,50,CFoam sample 3,
-20141027/20141027-1.root,8765401239,,50,CFoam sample 2,
-20141028/20141028-1.root,8765401239,,50,CFoam sample 4a,
-20141028/20141028-2.root,0432156789,,50,CFoam sample 4b,fail
-20150331/20150331-1.root,0432187659,,50,Sample 5a, Aluminium samples
-20150412/20150412-1.root,0432156789,,50,CFRP strip, 0-90-0 heat in 0 deg direction stange_more_time needed
-20150803/20150803-1.root,0432156789,,50,CFoam Sample 3b,fail
-20150803/20150803-2.root,0432156789,,50,Foam Sample 4a,fail
-20150804/20150804-2.root,0432156789,,50,CFoam Sample 4a,fail
-20150805/20150805-2.root,0432156789,,50,Foam Sample 5b,
-20150805/20150805-2.root,0432156789,,50,Sample 5b,
-20150805/20150805-4.root,0432156789,,50,Foam Sample 3a,
-20150825/20150825-6.root,0432156789,,50,Sample 0a,Glue thickness: 100-Carbon foam thickness: 4mm
-20150825/20150825-6.root,0432156789,,50,Sample 0a,
-20150826/20150826-2.root,0432156789,,50,Sample 0b, Glue thickness: 100-Carbon Foam thickness: 4mm
-20150826/20150826-4.root,0432156789,,50,Sample 1a, Glue thickness: 150 -Carbon foam thickness: 4.5 mm
-20150831/20150831-4.root,0432156789,,50,Sample 0b, glue thickness: 100 -foam thickness: 4mm
-20150910/20150910-3.root,0432156789,,50,Aluminium,,
-20150914/20150914-2.root,0432156789,,50,Sample 4a,smaller,
-20150915/20150915-1.root,0432156789,,50,Aluminium,nothing else,
-20160311/20160311-2.root,0432156789,4,50,test,fail
-20160315/20160315-2.root,0432156789,4,50,test,fail
-20160318/20160318-2.root,0432156789,4,50,test,
+../20140116/20140116-1.root,8765401239,,50,foam cooling tests, in air dry aluminium to aluminium contact
+../20140117/20140117-1.root,8765401239,,50,Aluminium to aluminium, interface with thermal grease
+../20140120/20140120-1.root,8765401239,,50,CFRP sheet with thermal grease 1,fail
+../20140120/20140120-2.root,8765401239,,50,CFRP sheet with thermal grease 2,fail
+../20140120/20140120-3.root,8765401239,,50,CFRP sheet with thermal grease 3,fail
+../20140120/20140120-4.root,8765401239,,50,CFRP sheet with thermal grease 4,fail
+../20140120/20140120-5.root,8765401239,,50,CFRP sheet with thermal grease 5,fail
+../20140121/20140121-1.root,8765401239,,50,Al-Al contact with thermal grease 1,fail
+../20140121/20140121-2.root,8765401239,,50,Al-Al contact with thermal grease 2,fail
+../20140121/20140121-3.root,8765401239,,50,Foam sample 2b,
+../20140121/20140121-4.root,8765401239,,50,Foam sample 0a,
+../20140121/20140121-5.root,8765401239,,50,Foam sample 3b,
+../20140516/20140516-1.root,8765401239,,50,Sample 5b,fail
+../20140516/20140516-2.root,8765401239,,50,Sample 5b,
+../20140730/20140730-1.root,8765401239,,50,Al-Al contact with thermal grease,
+../20140731/20140731-1.root,8765401239,,50,with thernmal grease,
+../20140731/20140731-1.root,8765401239,,50,Single Aluminium plate measurement,
+../20140801/20140801-2.root,8765401239,,50,Bare Aluminium with thermal grease,
+../20140822/20140822-2.root,8765401239,,50,Aluminium sheet with thermal grease,
+../20140827/20140827-1.root,8765401239,,50,Aluminium sheet with thermal grease,
+../20140828/20140828-1.root,8765401239,,50,Aluminium sheet with thermal grease,ok no gradient
+../20140901/20140901-1.root,8765401239,,50,Aluminium sheet with thermal grease,
+../20140903/20140903-1.root,8765401239,,50,Aluminium sheet with thermal grease,
+../20141007/20141007-1.root,8765401239,,50,T725 sample, prepared with 10 psi pressure ok no gradient
+../20141007/20141007-2.root,8765401239,,50,T557 sample, prepared with 10 psi pressure fail
+../20141008/20141008-1.root,8765401239,,50,T557 sample, prepared with 10 psi pressure
+../20141008/20141008-2.root,8765401239,,50,T557 sample, prepared with 10 psi pressure
+../20141008/20141008-3.root,8765401239,,50,T777 sample, prepared with 10 psi pressure
+../20141009/20141009-1.root,8765401239,,50,MPC315 sample, prepared with 10 psi pressure fail
+../20141009/20141009-2.root,8765401239,,50,MPC315 sample, prepared with 10 psi pressure fail
+../20141021/20141021-2.root,8765401239,,50,CFoam sample 5,
+../20141021/20141021-2.root,8765401239,,50,CFoam sample 5,
+../20141021/20141021-3.root,8765401239,,50,Thermal Grease,
+../20141022/20141022-1.root,8765401239,,50,CFoam sample 1,
+../20141022/20141022-2.root,8765401239,,50,CFoam sample 3,
+../20141027/20141027-1.root,8765401239,,50,CFoam sample 2,
+../20141028/20141028-1.root,8765401239,,50,CFoam sample 4a,
+../20141028/20141028-2.root,0432156789,,50,CFoam sample 4b,fail
+../20150331/20150331-1.root,0432187659,,50,Sample 5a, Aluminium samples
+../20150412/20150412-1.root,0432156789,,50,CFRP strip, 0-90-0 heat in 0 deg direction stange_more_time needed
+../20150803/20150803-1.root,0432156789,,50,CFoam Sample 3b,fail
+../20150803/20150803-2.root,0432156789,,50,Foam Sample 4a,fail
+../20150804/20150804-2.root,0432156789,,50,CFoam Sample 4a,fail
+../20150805/20150805-2.root,0432156789,,50,Foam Sample 5b,
+../20150805/20150805-2.root,0432156789,,50,Sample 5b,
+../20150805/20150805-4.root,0432156789,,50,Foam Sample 3a,
+../20150825/20150825-6.root,0432156789,,50,Sample 0a,Glue thickness: 100-Carbon foam thickness: 4mm
+../20150825/20150825-6.root,0432156789,,50,Sample 0a,
+../20150826/20150826-2.root,0432156789,,50,Sample 0b, Glue thickness: 100-Carbon Foam thickness: 4mm
+../20150826/20150826-4.root,0432156789,,50,Sample 1a, Glue thickness: 150 -Carbon foam thickness: 4.5 mm
+../20150831/20150831-4.root,0432156789,,50,Sample 0b, glue thickness: 100 -foam thickness: 4mm
+../20150910/20150910-3.root,0432156789,,50,Aluminium,,
+../20150914/20150914-2.root,0432156789,,50,Sample 4a,smaller,
+../20150915/20150915-1.root,0432156789,,50,Aluminium,nothing else,
+../20160311/20160311-2.root,0432156789,4,50,test,fail
+../20160315/20160315-2.root,0432156789,4,50,test,fail
+../20160318/20160318-2.root,0432156789,4,50,test,

@@ -44,7 +44,7 @@ Compile this script with:
 g++ -I `root-config --incdir` -o test main.cc `root-config --libs` -Wall -std=c++0x -pedantic
 
 Then run: ./test /path/to/runlist
-Change test to a different executable name if you want.
+Change test in the above two lines to a different executable name if you want.
 
 ********************
 
@@ -57,30 +57,16 @@ Then input the runlist when prompted.
 
 ********************
 
+Compile this script in ROOT with:
+
+root -l -b
+.x main.cc++
+
+Then input the runlist when prompted.
+
+********************
+
 */
-
-
-// ********************
-// functions:
-// ********************
-
-// the function to read the runlist
-void readrunlist();
-
-// the function to prepare roots
-void prepareroot();
-
-// the function to open the input files
-void openfile();
-
-// a function to sort the sensors according to their position
-void sensorsorting();
-
-// a function to check if we are in thermal equilibrium
-bool stablesystem(double mydelta); 
-
-// a function to return the new position of a (broken) sorted sensor
-int brokensorting(int run, int origsensor);
 
 
 // ********************
@@ -1043,7 +1029,7 @@ void readrunlist(std::string astring)
 
 
 // ********************
-// a function to evaluate if the change in sensor temperatures is below the given limit
+// a function to evaluate if the change in sensor temperatures is below the given limit -> are we in thermal equilibrium?
 // ********************
 
 bool stablesystem(double mydelta)
@@ -2013,7 +1999,6 @@ int main(int argc, char** argv)
 		sprintf(tempchar, "Material %s", materiallist.at(l).c_str());
 		l_blockcompmaterial_g2->AddEntry(g_blockcompmaterial2[l],tempchar,"lp");
 		c_blockcompmaterial_g2->Update();
-
 
 		outputFile->cd();
 		c_gradcompmaterial->cd();
